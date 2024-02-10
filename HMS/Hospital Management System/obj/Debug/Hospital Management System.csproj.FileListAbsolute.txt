@@ -166,3 +166,50 @@ F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_Sys
 F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.Staffprofile.resources
 F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital_Management_System.StaffSearch.resources
 F:\Study\C#\project\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.AddStaff.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientList.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.AdminPatientSearch.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.AdminProfile.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableDoctors.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableRooms.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.DischargedPatients.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorManagement.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientDischarge.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorprofile.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorSearch.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.AddDoctor.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.EditDoctor.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.EditDoctor2.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.EditPatient.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.EditPatient2.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.EditStaff.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.EditStaff2.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.Admin.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorPatientList.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.PrescriptionForm2.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.RegistrationForm.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.RemoveDoctor.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.RemovePatient.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.RemoveStaff.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.Room.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.Staff.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.StaffManagement.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientList.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.StaffPatientSearch.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.Staffprofile.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital_Management_System.StaffSearch.resources
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Abdulrahman khawaji\Source\Repos\Hospital_Management_System\HMS\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
